@@ -30,4 +30,7 @@ http://localhost:3000
 ## Contruido con 🛠️
 
 * [Express](https://expressjs.com/)
-* [dotenv](https://www.npmjs.com/package/dotenv)
+* [Dotenv](https://www.npmjs.com/package/dotenv)
+* [Mongoose](https://www.npmjs.com/package/mongoose)
+* [Express Validator](https://www.npmjs.com/package/express-validator)
+* [Bcrypt](https://www.npmjs.com/package/bcrypt)

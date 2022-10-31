@@ -3,13 +3,13 @@
 ## Instalación
   
 ```bash
-npm install
+npm install or yarn
 ```
 
 ## Correr el servidor
 
 ```bash
-npm start
+npm start or yarn start
 ```
 
 ## Ver el servidor
@@ -18,6 +18,7 @@ Crear un archivo ```.env``` con las siguientes variables:
 
 ```bash
 PORT = 3000
+MONGODB_CNN = mongodb+srv://************
 ```
 de esta manera podremos ver el servidor en el puerto 3000.
 
